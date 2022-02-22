@@ -113,4 +113,4 @@ pred trace {
 run {
     wellformed
     trace
-} for exactly 3 State, 8 Int, 2 Player for {next is linear}
+} for exactly 3 State, 6 Int, 2 Player for {next is linear}
